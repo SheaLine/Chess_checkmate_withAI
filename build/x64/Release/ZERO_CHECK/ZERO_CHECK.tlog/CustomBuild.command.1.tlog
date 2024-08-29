@@ -1,0 +1,10 @@
+^C:\USERS\SLINE\DOCUMENTS\UCSC\CMPM 123\ASSIGNMENT7\CHESS_CHECKMATE_WITHAI\BUILD\CMAKEFILES\8FE35E7B924464BFD4C6E393F36E419F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI" "-BC:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/chess.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

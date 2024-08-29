@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\build\CMakeFiles\8fe35e7b924464bfd4c6e393f36e419f\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9346A603-208A-3A66-B65D-C15F73080B7E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

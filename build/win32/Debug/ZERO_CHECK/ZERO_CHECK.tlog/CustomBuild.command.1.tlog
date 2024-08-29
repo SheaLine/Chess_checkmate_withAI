@@ -1,0 +1,10 @@
+^C:\USERS\SLINE\DOCUMENTS\UCSC\CMPM 123\ASSIGNMENT3\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\BUILD\CMAKEFILES\85CBD6AEDDB6029B3B5F22CA86C87B03\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/sline/Documents/UCSC/CMPM 123/Assignment3/rock_paper_scissors/rock_paper_scissors" "-BC:/Users/sline/Documents/UCSC/CMPM 123/Assignment3/rock_paper_scissors/rock_paper_scissors/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/sline/Documents/UCSC/CMPM 123/Assignment3/rock_paper_scissors/rock_paper_scissors/build/tictactoe.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

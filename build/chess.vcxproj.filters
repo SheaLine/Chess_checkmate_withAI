@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\classes\Bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\classes\BitHolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\classes\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\classes\Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\classes\ChessSquare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\classes\Chess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\main_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\imgui\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment7\Chess_checkmate_withAI\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8B2F99F5-06B9-385E-B3CF-5173D09FA55F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

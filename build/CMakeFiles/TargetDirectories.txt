@@ -1,0 +1,9 @@
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/Experimental.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/Nightly.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/Continuous.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/chess.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/PACKAGE.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment7/Chess_checkmate_withAI/build/CMakeFiles/ZERO_CHECK.dir
